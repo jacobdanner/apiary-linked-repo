@@ -1,0 +1,277 @@
+{
+    "displayName": "i18n:pages.homePage.displayName",
+    "id": "homePage",
+    "isModalPage": false,
+    "type": "landing",
+    "view": {
+        "binding": {},
+        "children": [
+            {
+                "binding": {},
+                "children": [
+                    {
+                        "binding": {},
+                        "displayName": "Title",
+                        "id": "title-40797",
+                        "properties": {
+                            "__silentProperties": {
+                                "translatableKeys": [
+                                    "value"
+                                ],
+                                "translatableRoot": "pages.homePage.title-40797"
+                            },
+                            "appendDataValue": false,
+                            "bindEntityId": "",
+                            "bindPropertyId": "",
+                            "bottomBorder": false,
+                            "customizable": false,
+                            "designerIsDraggable": true,
+                            "designerIsHorizontallyResizable": true,
+                            "designerIsWrappable": false,
+                            "designerMinWidth": 12,
+                            "level": 1,
+                            "value": "i18n:pages.homePage.title-40797.value"
+                        },
+                        "type": "title"
+                    },
+                    {
+                        "binding": {},
+                        "displayName": "Button Toolbar",
+                        "id": "button-toolbar-12975",
+                        "properties": {
+                            "__silentProperties": {
+                                "translatableRoot": "no-i18n-keys"
+                            },
+                            "designerIsDraggable": true,
+                            "designerIsDroppable": true,
+                            "designerIsHorizontallyResizable": true,
+                            "designerIsWrappable": false
+                        },
+                        "type": "button-toolbar"
+                    }
+                ],
+                "displayName": "Page Header",
+                "id": "page-header-69948",
+                "properties": {
+                    "__silentProperties": {
+                        "translatableRoot": "pages.homePage.page-header-69948"
+                    },
+                    "designerIsDraggable": true,
+                    "designerIsHorizontallyResizable": true,
+                    "designerIsWrappable": true
+                },
+                "type": "page-header"
+            },
+            {
+                "binding": {},
+                "displayName": "Paragraph",
+                "id": "paragraph-28963",
+                "properties": {
+                    "__silentProperties": {
+                        "translatableKeys": [
+                            "value"
+                        ],
+                        "translatableRoot": "pages.homePage.paragraph-28963"
+                    },
+                    "bindEntityId": "",
+                    "bindPropertyId": "",
+                    "breakpoints": {},
+                    "componentStyleAlign": "compstyle-align-inherit",
+                    "componentStyleClass": "compstyle-align-inherit  compstyle-size-normal",
+                    "componentStyleFormat": [],
+                    "componentStyleSize": "compstyle-size-normal",
+                    "designerIsDraggable": true,
+                    "designerIsHorizontallyResizable": true,
+                    "designerIsWrappable": true,
+                    "designerMinWidth": 1,
+                    "roles": {},
+                    "useDataValue": false,
+                    "value": "i18n:pages.homePage.paragraph-28963.value"
+                },
+                "type": "paragraph"
+            },
+            {
+                "binding": {},
+                "displayName": "Image",
+                "id": "image-42341",
+                "properties": {
+                    "__silentProperties": {
+                        "translatableKeys": [
+                            "altText"
+                        ],
+                        "translatableRoot": "pages.homePage.image-42341"
+                    },
+                    "altText": "i18n:pages.homePage.image-42341.altText",
+                    "bindEntityId": "",
+                    "bindPropertyId": "",
+                    "componentStyleValign": "abcs-vertical-align-top",
+                    "defaultImageEnabled": [],
+                    "defaultImagePath": null,
+                    "designerIsDraggable": true,
+                    "designerIsHorizontallyResizable": true,
+                    "designerIsWrappable": true,
+                    "designerMinWidth": 1,
+                    "events": {
+                        "click": "qual_upload_48_ena_png_image_42341click"
+                    },
+                    "imagePath": "style/images/imagegallery/functional/func_closeapp_24_ena@2x.png",
+                    "isStatic": true
+                },
+                "type": "image"
+            }
+        ],
+        "displayName": "Page Top",
+        "id": "abcs-page-top",
+        "properties": {
+            "__silentProperties": {
+                "translatableRoot": "no-i18n-keys"
+            },
+            "designerIsDraggable": true,
+            "designerIsDroppable": true,
+            "designerIsHorizontallyResizable": false,
+            "designerIsVerticallyResizable": false,
+            "designerIsWrappable": true,
+            "designerLayout": [
+                [
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-69948",
+                        "type": "page-header"
+                    }
+                ],
+                [
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-28963",
+                        "type": "paragraph"
+                    }
+                ],
+                [
+                    {
+                        "id": "image-42341",
+                        "type": "image"
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ]
+        },
+        "type": "grid"
+    },
+    "viewModel": {
+        "archetypes": [],
+        "events": [
+            {
+                "attributes": {
+                    "viewId": "image-42341"
+                },
+                "description": [
+                    "componentsDt.imageClickEventDescription",
+                    "qual_upload_48_ena.png"
+                ],
+                "displayName": [
+                    "componentsDt.imageClickEventDisplayName",
+                    "qual_upload_48_ena.png"
+                ],
+                "id": "qual_upload_48_ena_png_image_42341click",
+                "type": "view"
+            }
+        ],
+        "methods": []
+    }
+}

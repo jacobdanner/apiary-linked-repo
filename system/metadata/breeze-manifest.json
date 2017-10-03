@@ -1,0 +1,14 @@
+{
+    "buildVersion": "17.4-SNAPSHOT",
+    "buildMode": "dev",
+    "demoMode": "false",
+    "buildNumber": "09d00e7e5e7f4d711b0147b96ff53029672784a7",
+    "buildTime": "2017-10-03 16:28:47",
+    "buildTimestamp": "1507048131706",
+    "dtAssetsDir": "assets_09d00e7e5e7f4d711b0147b96ff53029672784a7",
+    "buildNotOptimized": true,
+    "backendOnly": true,
+    "frontendContext": "client",
+    "frontendUrl": "",
+    "runtimeVersion": "0.9.7.4"
+}

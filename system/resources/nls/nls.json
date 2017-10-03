@@ -1,0 +1,36 @@
+{
+    "en": {
+        "application": {
+            "copyright": {
+                "value": "Copyright (c) 2016, 2017, Company and/or its affiliates. All rights reserved."
+            },
+            "title": {
+                "value": "gitEmpty"
+            }
+        },
+        "main-menu": {
+            "homePage": "Home",
+            "tab1Page": "Tab 1"
+        },
+        "pages": {
+            "homePage": {
+                "displayName": "Home",
+                "image-42341": {
+                    "altText": "Alt Text"
+                },
+                "paragraph-28963": {
+                    "value": "Lorem ipsumsd"
+                },
+                "title-40797": {
+                    "value": "Home"
+                }
+            },
+            "tab1Page": {
+                "displayName": "Tab 1",
+                "title-80251": {
+                    "value": "Tab 1"
+                }
+            }
+        }
+    }
+}
