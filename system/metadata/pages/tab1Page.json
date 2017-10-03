@@ -1,0 +1,137 @@
+{
+    "displayName": "i18n:pages.tab1Page.displayName",
+    "id": "tab1Page",
+    "isModalPage": false,
+    "type": "landing",
+    "view": {
+        "binding": {},
+        "children": [
+            {
+                "binding": {},
+                "children": [
+                    {
+                        "binding": {},
+                        "displayName": "Title",
+                        "id": "title-91636",
+                        "properties": {
+                            "__silentProperties": {
+                                "translatableKeys": [
+                                    "value"
+                                ],
+                                "translatableRoot": "pages.tab1Page.title-91636"
+                            },
+                            "appendDataValue": false,
+                            "bindEntityId": "",
+                            "bindPropertyId": "",
+                            "bottomBorder": false,
+                            "customizable": false,
+                            "designerIsDraggable": true,
+                            "designerIsHorizontallyResizable": true,
+                            "designerIsWrappable": false,
+                            "designerMinWidth": 12,
+                            "level": 1,
+                            "value": "i18n:pages.tab1Page.title-91636.value"
+                        },
+                        "type": "title"
+                    },
+                    {
+                        "binding": {},
+                        "displayName": "Button Toolbar",
+                        "id": "button-toolbar-90347",
+                        "properties": {
+                            "__silentProperties": {
+                                "translatableRoot": "no-i18n-keys"
+                            },
+                            "designerIsDraggable": true,
+                            "designerIsDroppable": true,
+                            "designerIsHorizontallyResizable": true,
+                            "designerIsWrappable": false
+                        },
+                        "type": "button-toolbar"
+                    }
+                ],
+                "displayName": "Page Header",
+                "id": "page-header-13856",
+                "properties": {
+                    "__silentProperties": {
+                        "translatableRoot": "pages.tab1Page.page-header-13856"
+                    },
+                    "designerIsDraggable": true,
+                    "designerIsHorizontallyResizable": true,
+                    "designerIsWrappable": true
+                },
+                "type": "page-header"
+            }
+        ],
+        "displayName": "Page Top",
+        "id": "abcs-page-top",
+        "properties": {
+            "__silentProperties": {
+                "translatableRoot": "no-i18n-keys"
+            },
+            "designerIsDraggable": true,
+            "designerIsDroppable": true,
+            "designerIsHorizontallyResizable": false,
+            "designerIsVerticallyResizable": false,
+            "designerIsWrappable": true,
+            "designerLayout": [
+                [
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-13856",
+                        "type": "page-header"
+                    }
+                ]
+            ]
+        },
+        "type": "grid"
+    },
+    "viewModel": {
+        "archetypes": [],
+        "events": [],
+        "methods": []
+    }
+}

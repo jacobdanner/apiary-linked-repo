@@ -1,0 +1,44 @@
+{
+    "binding": {},
+    "displayName": "main-menu",
+    "id": "abcs-tpl-app-main-menu",
+    "properties": {
+        "__silentProperties": {
+            "translatableRoot": "no-i18n-keys"
+        },
+        "designerIsDraggable": true,
+        "designerIsHorizontallyResizable": true,
+        "designerIsWrappable": true,
+        "model": {
+            "children": [
+                {
+                    "children": [],
+                    "id": "menuItem_2796514817601213",
+                    "item": {
+                        "data": {
+                            "pageId": "homePage"
+                        },
+                        "icon": "nav-icon-24-home",
+                        "title": "i18n:main-menu.homePage",
+                        "type": "page"
+                    }
+                },
+                {
+                    "children": [],
+                    "id": "menuItem_7914158636590269",
+                    "item": {
+                        "data": {
+                            "pageId": "tab1Page"
+                        },
+                        "icon": "nav-icon-24-home",
+                        "title": "i18n:main-menu.tab1Page",
+                        "type": "page"
+                    }
+                }
+            ],
+            "id": "ROOT",
+            "item": null
+        }
+    },
+    "type": "main-menu"
+}

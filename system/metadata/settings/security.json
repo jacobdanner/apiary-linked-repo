@@ -1,0 +1,51 @@
+{
+    "credentials": {
+        "hcm_services": {
+            "domain": "*",
+            "token": "rP0UzP3cpQVTdZiVlwoSdvP9r8jkC2POXRvlDeLX1CmbV65XZOY=",
+            "username": "HCM_USER10"
+        },
+        "oracle_crm": {
+            "domain": "*",
+            "token": "kqQ7YM779IvZlPpAFN6IGHuyuC9/7+KcMsA3EMCGSt5/fh6P",
+            "username": "mary.jane-p2crm11"
+        },
+        "oracle_crm_f": {
+            "domain": "*",
+            "token": "tYB4GYbX1Nq824Y0wXJSPp7jPAyQqYEPQ6DvN3ZbDEa/bnDqudc=",
+            "username": "MARY.JANE-P1CRM"
+        },
+        "oracle_services": {
+            "domain": "*",
+            "token": "Lme61540BjFk1U4olascsuxE8yibmEPEUOCwJhYTosrpekCzdeP+jSk=",
+            "username": "customer_service_manager"
+        },
+        "oracle_services_api": {
+            "domain": "*",
+            "token": "/dZIb+ZefxFTQoUZxno1FAnwXvDW2uTQhboAWgUWzLdR7Mapvtg7ku0YzM7p",
+            "username": "sales_admin"
+        }
+    },
+    "embedding": "deny",
+    "identity": {
+        "anonymous": {},
+        "cloud": {},
+        "selected": [
+            "cloud"
+        ]
+    },
+    "roles": {
+        "mapping": [],
+        "pages": {
+            "anonymous": [],
+            "protected": {
+                "homePage": [
+                    "approle.authenticated.user"
+                ],
+                "tab1Page": [
+                    "approle.authenticated.user"
+                ]
+            }
+        }
+    }
+}

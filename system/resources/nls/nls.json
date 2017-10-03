@@ -1,0 +1,33 @@
+{
+    "en": {
+        "application": {
+            "copyright": {
+                "value": "Copyright (c) 2016, 2017, Company and/or its affiliates. All rights reserved."
+            },
+            "title": {
+                "value": "postToGithub"
+            }
+        },
+        "main-menu": {
+            "homePage": "Home",
+            "tab1Page": "Tab 1"
+        },
+        "pages": {
+            "homePage": {
+                "displayName": "Home",
+                "paragraph-49177": {
+                    "value": "Lorem ipsuma"
+                },
+                "title-83981": {
+                    "value": "Home"
+                }
+            },
+            "tab1Page": {
+                "displayName": "Tab 1",
+                "title-91636": {
+                    "value": "Tab 1"
+                }
+            }
+        }
+    }
+}

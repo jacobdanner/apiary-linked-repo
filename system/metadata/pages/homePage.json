@@ -1,0 +1,215 @@
+{
+    "displayName": "i18n:pages.homePage.displayName",
+    "id": "homePage",
+    "isModalPage": false,
+    "type": "landing",
+    "view": {
+        "binding": {},
+        "children": [
+            {
+                "binding": {},
+                "children": [
+                    {
+                        "binding": {},
+                        "displayName": "Title",
+                        "id": "title-83981",
+                        "properties": {
+                            "__silentProperties": {
+                                "translatableKeys": [
+                                    "value"
+                                ],
+                                "translatableRoot": "pages.homePage.title-83981"
+                            },
+                            "appendDataValue": false,
+                            "bindEntityId": "",
+                            "bindPropertyId": "",
+                            "bottomBorder": false,
+                            "customizable": false,
+                            "designerIsDraggable": true,
+                            "designerIsHorizontallyResizable": true,
+                            "designerIsWrappable": false,
+                            "designerMinWidth": 12,
+                            "level": 1,
+                            "value": "i18n:pages.homePage.title-83981.value"
+                        },
+                        "type": "title"
+                    },
+                    {
+                        "binding": {},
+                        "displayName": "Button Toolbar",
+                        "id": "button-toolbar-94520",
+                        "properties": {
+                            "__silentProperties": {
+                                "translatableRoot": "no-i18n-keys"
+                            },
+                            "designerIsDraggable": true,
+                            "designerIsDroppable": true,
+                            "designerIsHorizontallyResizable": true,
+                            "designerIsWrappable": false
+                        },
+                        "type": "button-toolbar"
+                    }
+                ],
+                "displayName": "Page Header",
+                "id": "page-header-12200",
+                "properties": {
+                    "__silentProperties": {
+                        "translatableRoot": "pages.homePage.page-header-12200"
+                    },
+                    "designerIsDraggable": true,
+                    "designerIsHorizontallyResizable": true,
+                    "designerIsWrappable": true
+                },
+                "type": "page-header"
+            },
+            {
+                "binding": {},
+                "displayName": "Paragraph",
+                "id": "paragraph-49177",
+                "properties": {
+                    "__silentProperties": {
+                        "translatableKeys": [
+                            "value"
+                        ],
+                        "translatableRoot": "pages.homePage.paragraph-49177"
+                    },
+                    "bindEntityId": "",
+                    "bindPropertyId": "",
+                    "breakpoints": {},
+                    "componentStyleAlign": "compstyle-align-inherit",
+                    "componentStyleClass": "compstyle-align-inherit  compstyle-size-normal",
+                    "componentStyleFormat": [],
+                    "componentStyleSize": "compstyle-size-normal",
+                    "designerIsDraggable": true,
+                    "designerIsHorizontallyResizable": true,
+                    "designerIsWrappable": true,
+                    "designerMinWidth": 1,
+                    "roles": {},
+                    "useDataValue": false,
+                    "value": "i18n:pages.homePage.paragraph-49177.value"
+                },
+                "type": "paragraph"
+            }
+        ],
+        "displayName": "Page Top",
+        "id": "abcs-page-top",
+        "properties": {
+            "__silentProperties": {
+                "translatableRoot": "no-i18n-keys"
+            },
+            "designerIsDraggable": true,
+            "designerIsDroppable": true,
+            "designerIsHorizontallyResizable": false,
+            "designerIsVerticallyResizable": false,
+            "designerIsWrappable": true,
+            "designerLayout": [
+                [
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    },
+                    {
+                        "id": "page-header-12200",
+                        "type": "page-header"
+                    }
+                ],
+                [
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    },
+                    {
+                        "id": "paragraph-49177",
+                        "type": "paragraph"
+                    }
+                ]
+            ]
+        },
+        "type": "grid"
+    },
+    "viewModel": {
+        "archetypes": [],
+        "events": [],
+        "methods": []
+    }
+}
